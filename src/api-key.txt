@@ -1,0 +1,6 @@
+ baseurl = "https://api.themoviedb.org/3";
+apikey = "f5dbad5951c2922f7254e61a094eb629";
+
+
+
+/trending/movie/week?api_key=${this.apikey}`
